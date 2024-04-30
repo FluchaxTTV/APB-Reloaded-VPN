@@ -1,0 +1,28 @@
+1. WTFast - no support for APB: Reloaded & upon testing, does not load into EU server.
+
+2. ExitLag/Haste - support for APB: Reloaded (No Free trial - 1month = $8.99, 12month = $5.00 ea month; 
+	supports Windows & Android currently)
+
+3. MudFish - support for APB: Reloaded (No Free trial - 1month = $0.01 + data plan varying on usage 
+	- min plan = $0.99 - $4.99 = 50.84 GB ; supports Windows, MacOS, Linux, Android, iOS, SteamOS, Router, VMs, 
+	Browsers)
+
+**WINNER**4. NoPing - support for APB: Reloaded (Free trial 7 days - 1month = $7.90, 12month = $5.41 ea month)
+
+
+Misc. Info:
+APB: Reloaded
+Natural latency on EU servers:
+~92ms - 113ms avg
+
+**WINNER**NoPing latency on EU servers (Netherlands):
+~74ms - 103ms avg
+
+MudFish latency on EU servers (Netherlands):
+~Similar to native latency, slightly higher
+
+ExitLag latency on EU servers (Netherlands):
+~82ms - 126ms avg with 1.00 packet loss
+
+Psiphon latency on EU servers (Netherlands):
+~96ms - 128ms avg
